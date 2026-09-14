@@ -1,5 +1,6 @@
 # python_basic-25BCON1121##
 Factorial Calculator
+
 A simple Python application that calculates the factorial
 of any number entered by the user.
 ## Features
